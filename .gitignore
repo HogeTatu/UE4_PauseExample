@@ -196,5 +196,7 @@ FakesAssemblies/
 *.opt
 
 # UE4
+Binaries/
 Intermediate/
 Saved/
+*.sln
